@@ -1,5 +1,3 @@
-This repo explores various decision frameworks and ideation techniques, with an emphasis on a project exploring the mitigation of alert fatigue for cybsecurity alert analysts. 
-
 Below is a multi-step AI-assisted workflow that I created mirroring analyst thinking 
 - It enforces structured analysis and requires human approval at key points in the workflow to support risk-based triage, as opposed to alert dismissal.
 
